@@ -1,7 +1,7 @@
 public class Challenge {
     public static void main(String[] args) {
        System.out.println("5ft 8 = " + convertToCentimeters(5, 8) + "cm");
-        System.out.println("5 inche " + convertToCentimeters(5) + "cm");
+       System.out.println("5 inche " + convertToCentimeters(5) + "cm");
     }
 
     public static double convertToCentimeters(int inches) {
